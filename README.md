@@ -3,13 +3,14 @@ Tic Tac Toe
 
 # Insight into game
 
-- used a minimax algorithm 
+- Used a minimax algorithm 
 - The minimax algorithm helps find the best move, by working backwards from the end of the game. At each step it assumes that player A is trying to maximize the chances of A winning, while on the next turn the AI is trying to minimize the chances of A winning (i.e., to maximize AI's own chances of winning). 
 
 # Requirements
 
 - Pygame must be installed
 - Numpy must be installed
+- Constants and Tictactoe file must be downloaded to work
 
 # Game Instructions
 
