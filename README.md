@@ -1,4 +1,4 @@
-# cheekynandos
+# Coding Assignment
 Tic Tac Toe
 
 # Game Instructions
